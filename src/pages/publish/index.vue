@@ -40,7 +40,7 @@ export default {
     publish () {
       let currentUser = window.localStorage.getItem('user')
       if(!currentUser) {
-        this.$route.push('/login')
+        this.$router.push('/login')
         return
       }
       const user = JSON.parse(currentUser)

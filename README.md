@@ -13,17 +13,9 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+node server.js
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- See [Configuration Reference](https://cli.vuejs.org/config/).
+- See [Configuration Reference](https://leancloud.cn/docs/start.html).
+- See [Configuration Reference](http://www.expressjs.com.cn/).
